@@ -1,7 +1,7 @@
 
 import java.io.File
 
-fun main(args: Array<String>) {
+fun main() {
     var count = 0
     val lineList = mutableListOf<String>()
     val fileName = "puzzle_01_2"
